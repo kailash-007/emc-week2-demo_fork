@@ -2,6 +2,6 @@
 
 echo "Hello world"
 
-if [ "hello" == "hello" ];
+if [ "hello" == "hello" ]; then
   echo "Hello"
 fi
