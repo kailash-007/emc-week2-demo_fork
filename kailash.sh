@@ -6,7 +6,7 @@ a=60
 b=60
 c=60
 
-if (((a+b+c) == 180)); then
+if (((a+b+c) == 180));
     if (( a == b && b == c )); then
         echo "It is an Equilateral Triangle"
     elif (( a == b || a == c || b == c )); then
